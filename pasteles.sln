@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pasteles", "pasteles\pasteles.csproj", "{21B3522E-8AE3-42FE-A8DD-A1B03FFD329C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B3522E-8AE3-42FE-A8DD-A1B03FFD329C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B3522E-8AE3-42FE-A8DD-A1B03FFD329C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B3522E-8AE3-42FE-A8DD-A1B03FFD329C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B3522E-8AE3-42FE-A8DD-A1B03FFD329C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE7DE4E4-EB6B-444B-833C-D6546869D349}
+	EndGlobalSection
+EndGlobal
